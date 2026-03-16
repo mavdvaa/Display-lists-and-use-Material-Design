@@ -1,0 +1,51 @@
+class Event(var title: String, var description: String? = null, var daypart: Daypart, var duration: Int) {
+
+}
+
+enum class Daypart{
+    MORNING, EVENING, NIGHT
+}
+
+fun main() {
+    val events = listOf(
+        Event(
+        title = "Study",
+        description = "Commit to studying Kotlin at least 15 minutes per day.",
+        daypart =  Daypart.EVENING,
+        duration = 15
+        ),
+        Event(
+            title = "Work",
+            description = "Commit to studying",
+            daypart =  Daypart.MORNING,
+            duration = 150
+        )
+    )
+
+    println(events)
+
+    val short = events.filter{
+        it.duration < 60
+    }
+    println(short.size)
+
+    val morning = events.filter {
+        it.daypart == Daypart.MORNING
+    }
+    val evening = events.filter {
+        it.daypart == Daypart.EVENING
+    }
+    val night = events.filter {
+        it.daypart == Daypart.NIGHT
+    }
+
+    println("Last event of the day: ${events.last().title}")
+
+    val Event.duration: String
+    get() = if (this.duration < 60) {
+        "short"
+    } else {
+        "long"
+    }
+
+}
