@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">pie</string>
+
+<string name="pie1_name">Яблочный классический</string>
+<string name="pie1_desc">Традиционный пирог с сочными яблоками и ароматной корицей.</string>
+
+<string name="pie2_name">Черничный восторг</string>
+<string name="pie2_desc">Лесная черника с тонкой ноткой лимонной цедры.</string>
+
+<string name="pie3_name">Тыквенный пряный</string>
+<string name="pie3_desc">Классика осени с мускатным орехом и взбитыми сливками.</string>
+
+<string name="pie4_name">Вишневый сад</string>
+<string name="pie4_desc">Кисло-сладкая вишня под хрустящей сеточкой из теста.</string>
+
+<string name="pie5_name">Лимонный меренговый</string>
+<string name="pie5_desc">Нежный лимонный курд под облаком из обожженного безе.</string>
+
+<string name="pie6_name">Мясной пастуший</string>
+<string name="pie6_desc">Сытный пирог с фаршем, овощами и шапкой из картофельного пюре.</string>
+
+<string name="pie7_name">Клубничный с ревенем</string>
+<string name="pie7_desc">Идеальный баланс сладкой клубники и терпкого ревеня.</string>
+
+<string name="pie8_name">Шоколадный шелк</string>
+<string name="pie8_desc">Насыщенный шоколадный мусс на корже из печенья.</string>
+
+<string name="pie9_name">Банановый с кремом</string>
+<string name="pie9_desc">Слои свежих бананов и заварного ванильного крема.</string>
+
+<string name="pie10_name">Ореховый пекан</string>
+<string name="pie10_desc">Карамелизированные орехи пекан на песочной основе.</string>
+
+<string name="pie11_name">Персиковый коблер</string>
+<string name="pie11_desc">Запеченные персики под мягким бисквитным тестом.</string>
+
+<string name="pie12_name">Киш Лорен</string>
+<string name="pie12_desc">Французский открытый пирог с беконом, сыром и сливками.</string>
+
+<string name="pie13_name">Малиновый чизкейк</string>
+<string name="pie13_desc">Сливочный сыр с яркими прожилками малинового сиропа.</string>
+
+<string name="pie14_name">Ежевичный деревенский</string>
+<string name="pie14_desc">Крупные ягоды ежевики в открытом деревенском тесте.</string>
+
+<string name="pie15_name">Кокосовый рай</string>
+<string name="pie15_desc">Нежный крем с кокосовым молоком и стружкой.</string>
+
+<string name="pie16_name">Абрикосовый тарт</string>
+<string name="pie16_desc">Тонкий слой теста с половинками карамельных абрикосов.</string>
+
+<string name="pie17_name">Куриный пай</string>
+<string name="pie17_desc">Курица с грибами в густом белом соусе под слоеным тестом.</string>
+
+<string name="pie18_name">Грушевый с миндалем</string>
+<string name="pie18_desc">Груши, запеченные в миндальном креме (франжипане).</string>
+
+<string name="pie19_name">Клюквенный терпкий</string>
+<string name="pie19_desc">Яркая клюква с сахаром для тех, кто любит кислинку.</string>
+
+<string name="pie20_name">Сливовый перевернутый</string>
+<string name="pie20_desc">Пирог, который выпекается сливами вниз, а потом переворачивается.</string>
+
+<string name="pie21_name">Лаймовый (Key Lime)</string>
+<string name="pie21_desc">Знаменитый пирог с соком флоридских лаймов.</string>
+
+<string name="pie22_name">Овсяный с финиками</string>
+<string name="pie22_desc">Полезный и сладкий пирог с финиковой начинкой.</string>
+
+<string name="pie23_name">Рыбный адмиральский</string>
+<string name="pie23_desc">Лосось и шпинат в нежном сливочном соусе.</string>
+
+<string name="pie24_name">Кленовый канадский</string>
+<string name="pie24_desc">Сладкий пирог на основе настоящего кленового сиропа.</string>
+
+<string name="pie25_name">Брусничный со сметаной</string>
+<string name="pie25_desc">Классическое сочетание лесной брусники и нежной заливки.</string>
+
+<string name="pie26_name">Маковый рулет</string>
+<string name="pie26_desc">Очень много мака и капля меда в дрожжевом тесте.</string>
+
+<string name="pie27_name">Творожный с изюмом</string>
+<string name="pie27_desc">Домашний вкус из детства с фермерским творогом.</string>
+
+<string name="pie28_name">Грибной жульен</string>
+<string name="pie28_desc">Шампиньоны и вешенки под золотистой сырной коркой.</string>
+
+<string name="pie29_name">Ананасовый экспресс</string>
+<string name="pie29_desc">Тропический вкус с кольцами консервированного ананаса.</string>
+
+<string name="pie30_name">Праздничный микс</string>
+<string name="pie30_desc">Ассорти из всех ягод, собранных за этот месяц!</string>
+</resources>
